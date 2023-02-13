@@ -8,6 +8,7 @@ About Data:
 We will use a data frame with 777 observations on the following 18 variables.
 
 Private A factor with levels No and Yes indicating private or public university
+
 Apps Number of applications received
 Accept Number of applications accepted
 Enroll Number of new students enrolled
